@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:       Self-motivared You! 				# 标题 
+title:       Self-motivated You! 				# 标题 
 subtitle:   Join us as a graduate student!#副标题
 date:       2017-02-06 				# 时间
 author:     BY 						# 作者
