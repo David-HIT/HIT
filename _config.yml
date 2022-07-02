@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: True                           # whether or not using Sidebar.
+sidebar: False                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 # sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -55,9 +55,8 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
-
 # Featured Tags
-featured-tags: False                     # 是否使用首页标签
+featured-tags: True                     # 是否使用首页标签
 featured-condition-size: 5             # 相同标签数量大于这个数，才会出现在首页
 
 
