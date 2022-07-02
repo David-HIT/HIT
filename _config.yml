@@ -69,13 +69,13 @@ service-worker: true
 
 
 # Friends
-friends: [
+Links: [
     {
-        title: "WY",
+        title: "PI's Google Scholar",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Integrated Photonics Lab",
+        href: "https://xu-ipl.com/"
     },{
         title: "Apple",
         href: "https://apple.com"
