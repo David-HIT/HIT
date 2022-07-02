@@ -207,9 +207,7 @@ a img:focus {
   cursor: zoom-in;
 }
 
-img.emoji {
-  display: inline;
-}
+
 
 article {
   overflow-x: hidden;
@@ -238,6 +236,13 @@ br+small.img-hint {
 
 img.shadow {
   box-shadow: rgba(0, 0, 0, 0.258824) 0px 2px 5px 0px;
+}
+
+img.emoji {
+  display: inline;
+  height: 1em;
+  width: 1em;
+  margin-bottom: 0.25em;
 }
 
 select {
