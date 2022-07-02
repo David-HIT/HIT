@@ -38,10 +38,16 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+gems: 
+- jemoji
+- jekyll-paginate
 
-plugins: [jekyll-paginate]
+plugins: 
+ - jemoji
+ - jekyll-paginate
 
+
+  
 
 
 
@@ -55,8 +61,7 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-gems:
-  - jemoji
+ 
 
 # Featured Tags
 featured-tags: True                     # 是否使用首页标签
