@@ -57,7 +57,7 @@ kramdown:
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: False                     # 是否使用首页标签
 featured-condition-size: 5             # 相同标签数量大于这个数，才会出现在首页
 
 
