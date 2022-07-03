@@ -1,10 +1,10 @@
 # Site settings
 title: UFO
-SEOTitle: Ultrafast Laser Lab
+SEOTitle: UFO
 header-img: img/post-bg-desk.jpg
 email: hefeng2020@hit.edu.cn
 Memail: JialinHe_Plusero@outlook.com
-description: "Light and matter interact here~"
+description: "UFO and matter interact here~"
 keyword: "Laser, Ultrafast"
 url: "https://plusero.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
