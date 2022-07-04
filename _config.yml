@@ -1,19 +1,19 @@
 # Site settings
-title: UFO
-SEOTitle: UFO
-header-img: img/post-bg-desk.jpg
+title: AISO
+SEOTitle: AISO
+header-img: img/page-bg-home.jpg
 email: hefeng2020@hit.edu.cn
 Memail: JialinHe_Plusero@outlook.com
-description: "UFO and matter interact here~"
+description: "Any Intriguing Stuff about Optics~"
 keyword: "Laser, Ultrafast"
 url: "https://plusero.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://gitee.com/plusero/plusero" # you code repository
 
 # Sidebar settings
 sidebar: True                          # whether or not using Sidebar.
 sidebar-about-description: "Discover our lab using FEATURED TAGS above~"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/sidebar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # # SNS settings
 # RSS: false
