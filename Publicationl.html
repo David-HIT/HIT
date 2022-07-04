@@ -1,0 +1,71 @@
+---
+layout: page
+title: "Publication"
+description: "See what we do and how this site work"
+header-img: "img/post-bg-rwd.jpg"
+---
+
+<div class="zh post-container">
+
+    <!--copied from markdown -->
+    <blockquote>
+        <p>Light Shines<br>
+            Laser flies</p>
+    </blockquote>
+
+    <p>Hey,This<strong>Ultrafast Laser Lab</strong>@ HITSZ</p>
+
+    <p>We study light matter interaction here.</p>
+
+    <p></p>
+
+    <h5>Talks</h5>
+
+    <ul>
+        <li><a href="https://github.com">GitHub</a></li>
+        <li><a href="http://jekyll.com.cn/">jekyll</a></li>
+        <li><a href="http://huangxuan.me/">Hux</a></li>
+        <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
+    </ul>
+</div>
+
+
+<!-- Handle Language Change -->
+<script type="text/javascript">
+    // get nodes
+    var $zh = document.querySelector(".zh");
+    var $en = document.querySelector(".en");
+    var $select = document.querySelector("select");
+
+    // bind hashchange event
+    window.addEventListener('hashchange', _render);
+
+    // handle render
+    function _render() {
+        var _hash = window.location.hash;
+        // en
+        if (_hash == "#en") {
+            $select.selectedIndex = 1;
+            $en.style.display = "block";
+            $zh.style.display = "none";
+            // zh by default
+        } else {
+            // not trigger onChange, otherwise cause a loop call.
+            $select.selectedIndex = 0;
+            $zh.style.display = "block";
+            $en.style.display = "none";
+        }
+    }
+
+    // handle select change
+    function onLanChange(index) {
+        if (index == 0) {
+            window.location.hash = "#zh"
+        } else {
+            window.location.hash = "#en"
+        }
+    }
+
+    // init
+    _render();
+</script>
