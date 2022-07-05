@@ -962,7 +962,8 @@ img::-moz-selection {
     border: 1px solid rgba(255, 255, 255, .8);
     border-radius: 999em;
     padding: 0 10px;
-    color: #fff;
+    color: rgb(118, 169, 245);
+    /* color: #fff; */
     line-height: 24px;
     font-size: 12px;
     text-decoration: none;
