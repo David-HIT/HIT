@@ -13,24 +13,26 @@
 }
 
 .sidebar-container {
-  color: #413e3e;
+  color: #080808;
   /* color: #bfbfbf; */
   font-size: 14px;
 }
 
 .sidebar-container h5 {
-  color: #272525;
+  color: #000000;
   /* color: #808080; */
   padding-bottom: 1em;
 }
 
 .sidebar-container h5 a {
-  color: #808080 !important;
+  color: #030303 !important;
+  /* color: #808080 !important; */
   text-decoration: none;
 }
 
 .sidebar-container a {
-  color: #bfbfbf !important;
+  color: #070707 !important;
+  /* color: #bfbfbf !important; */
 }
 
 .sidebar-container a:hover,
