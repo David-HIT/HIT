@@ -25,7 +25,8 @@
 }
 
 .sidebar-container h5 a {
-    color: gray !important;
+    color: rgb(1, 60, 109);
+    /* color: gray !important; */
     text-decoration: none
 }
 
