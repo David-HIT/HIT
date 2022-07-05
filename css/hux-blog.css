@@ -13,12 +13,14 @@
 }
 
 .sidebar-container {
-  color: #bfbfbf;
+  color: #413e3e;
+  /* color: #bfbfbf; */
   font-size: 14px;
 }
 
 .sidebar-container h5 {
-  color: #808080;
+  color: #272525;
+  /* color: #808080; */
   padding-bottom: 1em;
 }
 
