@@ -19,7 +19,8 @@
 }
 
 .sidebar-container h5 {
-    color: gray;
+    color: rgb(1, 60, 109);
+    /* color: gray; */
     padding-bottom: 1em
 }
 
