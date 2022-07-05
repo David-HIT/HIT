@@ -31,7 +31,8 @@
 }
 
 .sidebar-container a {
-    color: #bfbfbf !important
+    color: #ec5656 !important
+        /* color: #bfbfbf !important */
 }
 
 .sidebar-container a:hover,
