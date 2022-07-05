@@ -1103,7 +1103,8 @@ img::-moz-selection {
 }
 
 .listing-seperator {
-  color: #0085a1;
+  /* color: #0085a1; */
+  color: #eef4f5;
   font-size: 21px !important;
 }
 
