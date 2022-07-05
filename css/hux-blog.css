@@ -41,7 +41,8 @@
 }
 
 .sidebar-container .tags a {
-  border-color: #bfbfbf;
+  border-color: #0c0c0c;
+  /* border-color: #bfbfbf; */
 }
 
 .sidebar-container .tags a:hover,
