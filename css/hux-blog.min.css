@@ -968,6 +968,7 @@ img::-moz-selection {
     border-radius: 999em;
     padding: 0 10px;
     /* color: rgb(118, 169, 245); */
+    /*color of the tags in the TAGS page */
     color: #fff;
     line-height: 24px;
     font-size: 12px;
