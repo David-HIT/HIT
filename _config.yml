@@ -63,8 +63,18 @@ friends: [
     {
         title: "PI's Google Scholar",
         href: "https://scholar.google.com/citations?user=wSPg8hwAAAAJ&hl=zh-CN&oi=sra"
-    },{
+    },
+    {
+        title: "HITSZ",
+        href: "https://www.hitsz.edu.cn/index.html"
+    }
+    ,
+    {
+        title: "HIT",
+        href: "https://www.hit.edu.cn/"
+    },
+    {
         title: "Integrated Photonics Lab",
         href: "https://xu-ipl.com/"
-    }
+    },
 ]
