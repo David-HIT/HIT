@@ -26,25 +26,6 @@ header-img: "img/page-bg-people.jpg"
         width: auto;
         height: auto;
         border-radius: 20px;
-
-        zoom:expression(function(e) {
-                if(e.width>e.height) {
-                    if (e.width>128) {
-                        e.height=e.height*(128 /e.width); e.width=128;
-                    }
-                }
-
-                else {
-                    if (e.height>128) {
-                        e.width=e.width*(128 /e.height); e.height=128;
-                    }
-                }
-
-                e.style.zoom='1';
-            }
-
-            (this));
-        overflow:hidden;
     }
 
     .p1 {
