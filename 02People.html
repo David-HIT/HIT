@@ -25,6 +25,25 @@ header-img: "img/page-bg-people.jpg"
         max-width: 180px;
         /* height: 200px; */
         border-radius: 20px;
+
+        zoom:expression(function(e) {
+                if(e.width>e.height) {
+                    if (e.width>128) {
+                        e.height=e.height*(128 /e.width); e.width=128;
+                    }
+                }
+
+                else {
+                    if (e.height>128) {
+                        e.width=e.width*(128 /e.height); e.height=128;
+                    }
+                }
+
+                e.style.zoom='1';
+            }
+
+            (this));
+        overflow:hidden;
     }
 
     .p1 {
