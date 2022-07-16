@@ -1,18 +1,6 @@
----
-layout:     post   				    # 使用的布局（不需要改）
-title:      Feng He(何枫)  				# 标题 
-subtitle:   Self-introduction from Feng He #副标题
-date:       2022-07-04			# 时间
-author:     Feng He						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
-catalog: true 						# 是否归档
-tags:								#标签
-    - People-Professor
----
+I"<h2 id="principal-investigator-of-aiso">Principal Investigator of AISO</h2>
 
-## Principal Investigator of AISO
-
-![](https://gitee.com/plusero/plusero/raw/master/img/picsInURL/fengHe.png)
+<p><img src="https://gitee.com/plusero/plusero/raw/master/img/picsInURL/fengHe.png" alt="" /></p>
 <p>Assistant Professor of Harbin Institute of Technology (Shenzhen), Ph.D. in Materials Engineering,
             University of Texas at Austin (2018). She was awarded the Brookhaven National Laboratory (BNL) scholarship
             and
@@ -27,4 +15,5 @@ tags:								#标签
 
 <p></p>
 
-For doctoral and postdoctoral opportunities, please contact hefeng2020@hit.edu.cn
+<p>For doctoral and postdoctoral opportunities, please contact hefeng2020@hit.edu.cn</p>
+:ET
