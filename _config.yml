@@ -13,15 +13,7 @@ github_repo: "https://gitee.com/plusero/plusero" # you code repository
 # Sidebar settings
 sidebar: True                          # whether or not using Sidebar.
 sidebar-about-description: "Discover our lab using FEATURED TAGS above~"
-sidebar-avatar: /img/sidebar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-# # SNS settings
-# RSS: false
-# zhihu_username:     Welle
-# github_username:    Plusero
-# facebook_username:  None
-# jianshu_username:   None
-
+# sidebar-avatar: /img/sidebar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
