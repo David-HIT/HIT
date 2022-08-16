@@ -1064,12 +1064,12 @@ img::-moz-selection {
     margin-right: 5px
 }
 
-@media only screen and (min-width:768px) {
+/* @media only screen and (min-width:768px) {
     .listing-seperator {
         font-size: 20px !important;
         line-height: 2 !important
     }
-}
+} */
 
 .one-tag-list .tag-text {
     font-weight: 200;
