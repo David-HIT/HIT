@@ -1084,7 +1084,8 @@ img::-moz-selection {
 .one-tag-list .post-preview>a .post-title {
     font-size: 16px;
     font-weight: 500;
-    margin-top: 20px
+    /* margin-top: 20px */
+    margin-top: 10px
 }
 
 .one-tag-list .post-preview>a .post-subtitle {
@@ -1100,7 +1101,7 @@ img::-moz-selection {
     line-height: 12px
 }
 
-@media only screen and (min-width:768px) {
+/* @media only screen and (min-width:768px) {
     .one-tag-list .post-preview {
         margin-left: 20px
     }
@@ -1117,7 +1118,7 @@ img::-moz-selection {
     .one-tag-list .post-preview .post-meta {
         font-size: 18px
     }
-}
+} */
 
 .post-container img {
     display: block;
