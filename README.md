@@ -9,3 +9,11 @@ This page use Gitee's build-in function `Gitee Pages` and the popular [Jekyll](h
 ## Contribute to the project
 If you are familiar with Github, just pull requests.
 If you are not, just learn to use it in [Github skills](https://skills.github.com/):joy:, or contact the maintainer by email `JialinHe_Plusero@outlook.com`.
+
+
+
+## For Maintainers
+
+![a](./img/page-bg-people.jpg)
+
+![image-20230427193309049](README.assets/image-20230427193309049.png)
