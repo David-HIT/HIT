@@ -14,6 +14,22 @@ If you are not, just learn to use it in [GitHub skills](https://skills.github.co
 
 ## For Maintainers
 
+按顺序阅读，即可学会用Gitee Pages部署网站。
+
+### 使用Gitee Pages
+
+1. 注册Gitee账号，随便选一个名字就好。比如LaserLabHITSZ，那么网站后续的域名会是`LaserLabHITSZ.gitee.io`。
+
+    [Gitee - 企业级 DevOps 研发效能平台](https://gitee.com/)![image-20230427205749855](README.assets/image-20230427205749855.png)
+
+2. fork一下原有的网站[plusero: a test for group blog (gitee.com)![image-20230427205950464](README.assets/image-20230427205950464.png)](https://gitee.com/plusero/plusero)
+
+3. 选择在`服务`中选择Gitee Pages，并启动。新账号会要求你实名验证，上传下实名信息就好了。![image-20230427210653204](README.assets/image-20230427210653204.png)![image-20230427210727232](README.assets/image-20230427210727232.png)
+
+4. 部署完成后，就可以查看你的网站啦~![image-20230427212550325](README.assets/image-20230427212550325.png)
+
+
+
 ### 使用GitHub Desktop管理项目
 
 如果你不会Git，请查看以下教程关于GitHub的部分。
